@@ -1,0 +1,6 @@
+{
+  "name": "Kiếm Mộng",
+  "description": "2D Action RPG Anime Kiếm Hiệp - Hành Trình Huynh Đệ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
